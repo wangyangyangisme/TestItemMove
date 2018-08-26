@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="divide_group.png">Resources/divide_group.png</file>
+        <file alias="create_group.png">Resources/create_group.png</file>
+    </qresource>
+</RCC>
